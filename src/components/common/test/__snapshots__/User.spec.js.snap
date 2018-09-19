@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserComponent Sanpshots UserComponent Sanpshot - with all the props 1`] = `
+<div
+  className="user col-md-4"
+>
+  <div
+    className="user-top"
+  />
+  <div
+    className="user-bottom"
+  >
+    <div
+      className="user-name"
+    >
+      <span
+        className="user-first-name"
+      >
+        Siddhartha
+      </span>
+       
+      <span
+        className="user-last-name"
+      >
+        Khatri
+      </span>
+    </div>
+    <a
+      className="user-delete"
+      href="# "
+      onClick={[Function]}
+      title="delete"
+    >
+      Delete
+    </a>
+  </div>
+  <img
+    alt="avtar"
+    className="user-avatar"
+    src="https://s3.amazonaws.com/uifaces/faces/twitter/stephenmoon/128.jpg"
+  />
+</div>
+`;

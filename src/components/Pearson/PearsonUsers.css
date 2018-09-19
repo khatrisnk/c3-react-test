@@ -1,0 +1,72 @@
+.user-mgmt-heading {
+  font-size: 36px;
+  color: #007fa3;
+  padding: 30px 0 20px 0;
+}
+
+.pearson-users .container {
+  margin: 0 auto;
+}
+
+.user-loader {
+  font-size: 36px;
+  color: #e93939;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+}
+
+.user-container {
+  background-color: #d8d8d8;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.user {
+  min-height: 400px;
+  position: relative;
+}
+.user-top {
+  height: 200px;
+}
+.user-bottom {
+  height: 200px;
+  background-color: white;
+  bottom: 0;
+  border-radius: 10px;
+  position: relative;
+}
+
+.user img {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+}
+
+.user-name {
+  text-align: center;
+  padding-top: 80px;
+  font-size: 18px;
+  color: #e93939;
+}
+
+.user-delete {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  color: #007fa3;
+  font-size: 14px;
+}

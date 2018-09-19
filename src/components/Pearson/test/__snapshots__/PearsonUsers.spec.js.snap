@@ -1,0 +1,146 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PearsonUsersComponent Sanpshots PearsonUsersComponent Sanpshot - with Loading... text 1`] = `
+<div
+  className="user-loader"
+>
+  Loading...
+</div>
+`;
+
+exports[`PearsonUsersComponent Sanpshots PearsonUsersComponent Sanpshot - with users list 1`] = `
+<div
+  className="pearson-users"
+>
+  <div
+    className="container row"
+  >
+    <h1
+      className="user-mgmt-heading"
+    >
+      Pearson User Management
+    </h1>
+  </div>
+  <div
+    className="user-container container row"
+  >
+    <div
+      className="user col-md-4"
+    >
+      <div
+        className="user-top"
+      />
+      <div
+        className="user-bottom"
+      >
+        <div
+          className="user-name"
+        >
+          <span
+            className="user-first-name"
+          >
+            Eve
+          </span>
+           
+          <span
+            className="user-last-name"
+          >
+            Holt
+          </span>
+        </div>
+        <a
+          className="user-delete"
+          href="# "
+          onClick={[Function]}
+          title="delete"
+        >
+          Delete
+        </a>
+      </div>
+      <img
+        alt="avtar"
+        className="user-avatar"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/marcoramires/128.jpg"
+      />
+    </div>
+    <div
+      className="user col-md-4"
+    >
+      <div
+        className="user-top"
+      />
+      <div
+        className="user-bottom"
+      >
+        <div
+          className="user-name"
+        >
+          <span
+            className="user-first-name"
+          >
+            Charles
+          </span>
+           
+          <span
+            className="user-last-name"
+          >
+            Morris
+          </span>
+        </div>
+        <a
+          className="user-delete"
+          href="# "
+          onClick={[Function]}
+          title="delete"
+        >
+          Delete
+        </a>
+      </div>
+      <img
+        alt="avtar"
+        className="user-avatar"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/stephenmoon/128.jpg"
+      />
+    </div>
+    <div
+      className="user col-md-4"
+    >
+      <div
+        className="user-top"
+      />
+      <div
+        className="user-bottom"
+      >
+        <div
+          className="user-name"
+        >
+          <span
+            className="user-first-name"
+          >
+            Tracey
+          </span>
+           
+          <span
+            className="user-last-name"
+          >
+            Ramos
+          </span>
+        </div>
+        <a
+          className="user-delete"
+          href="# "
+          onClick={[Function]}
+          title="delete"
+        >
+          Delete
+        </a>
+      </div>
+      <img
+        alt="avtar"
+        className="user-avatar"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/bigmancho/128.jpg"
+      />
+    </div>
+  </div>
+</div>
+`;
